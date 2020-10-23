@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-project/static/css/main.b1961dd9.chunk.css",
+    "main.js": "/weather-project/static/js/main.88f13921.chunk.js",
+    "main.js.map": "/weather-project/static/js/main.88f13921.chunk.js.map",
+    "runtime-main.js": "/weather-project/static/js/runtime-main.2f4005a3.js",
+    "runtime-main.js.map": "/weather-project/static/js/runtime-main.2f4005a3.js.map",
+    "static/js/2.6c69ae9a.chunk.js": "/weather-project/static/js/2.6c69ae9a.chunk.js",
+    "static/js/2.6c69ae9a.chunk.js.map": "/weather-project/static/js/2.6c69ae9a.chunk.js.map",
+    "index.html": "/weather-project/index.html",
+    "precache-manifest.9dd09bf258553c845c21b648475d99f0.js": "/weather-project/precache-manifest.9dd09bf258553c845c21b648475d99f0.js",
+    "service-worker.js": "/weather-project/service-worker.js",
+    "static/css/main.b1961dd9.chunk.css.map": "/weather-project/static/css/main.b1961dd9.chunk.css.map",
+    "static/js/2.6c69ae9a.chunk.js.LICENSE.txt": "/weather-project/static/js/2.6c69ae9a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weather-project/static/media/zakat-vecher-solnce-oblaka-nebo-luchi.1c5976ad.svg",
+    "static/media/search.png": "/weather-project/static/media/search.ec3c3d60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f4005a3.js",
+    "static/js/2.6c69ae9a.chunk.js",
+    "static/css/main.b1961dd9.chunk.css",
+    "static/js/main.88f13921.chunk.js"
+  ]
+}
